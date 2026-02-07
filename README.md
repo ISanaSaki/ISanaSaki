@@ -8,6 +8,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ISanaSaki&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ISanaSaki?style=flat&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ISanaSaki?style=flat&label=Stars" alt="GitHub Stars" />
+</p>
+
+---
+
 # 💫 About Me
 
 Hi, I'm Sana Saki 👋  
@@ -20,59 +28,66 @@ I believe in learning by building, breaking things, and fixing them better than 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack & Tools
 
 ### 🐍 Backend & Core
-- Python
-- FastAPI
-- Pydantic
-- Regex
-
-### 🗄️ Databases
-- SQLite
-- PostgreSQL
-
-### 🔄 Data & Background Tasks
-- Celery
-- Redis
-- NumPy
-
-### 🧬 Migrations & ORM
-- Alembic
-- Database Migrations
-
-### 🐳 DevOps & Deployment
-- Docker
-- Nginx
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISanaSaki&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISanaSaki&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISanaSaki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/FastAPI-0.115.0-009688?logo=fastapi" />
+  <img src="https://img.shields.io/badge/Pydantic-2.9.2-E92063?logo=pydantic" />
+  <img src="https://img.shields.io/badge/Regex-Pattern-blue?logo=code" />
 </p>
 
----
-
+### 🗄 Databases
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ISanaSaki&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ISanaSaki?style=flat&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ISanaSaki?style=flat&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+
+</p>
+
+
+### 🔄 Data & Background Tasks
+<p align="center">
+  <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=flat&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+
+### 🧬 Migrations & ORM
+<p align="center">
+<img src="https://img.shields.io/badge/alembic-%233B5FC0.svg?style=flat&logo=alembic&logoColor=white" />
+</p>
+
+### 🐳 DevOps & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" />
+
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/ISanaSaki)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanasaki85@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sana_saki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sana-saki-857397395)
+<p align="center">
+  <a href="https://github.com/ISanaSaki">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sanasaki85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/sana_saki">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sana-saki-857397395">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
