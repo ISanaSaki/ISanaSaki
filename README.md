@@ -28,7 +28,7 @@ I believe in learning by building, breaking things, and fixing them better than 
 
 ---
 
-# 🛠 Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 ### 🐍 Backend & Core
 
@@ -39,7 +39,7 @@ I believe in learning by building, breaking things, and fixing them better than 
   <img src="https://img.shields.io/badge/Regex-Pattern-blue?logo=code" />
 </p>
 
-### 🗄 Databases
+### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
@@ -71,7 +71,20 @@ I believe in learning by building, breaking things, and fixing them better than 
 
 ---
 
-## 🌐 Connect with Me
+# Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSanaSaki&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+# 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/ISanaSaki">
