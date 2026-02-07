@@ -47,6 +47,18 @@ I believe in learning by building, breaking things, and fixing them better than 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISanaSaki&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISanaSaki&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISanaSaki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ISanaSaki&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ISanaSaki?style=flat&label=Followers" alt="GitHub Followers" />
