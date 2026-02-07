@@ -6,15 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+Sana+Saki's+GitHub;Python+Backend+Developer;Building+APIs+with+FastAPI;Learning+by+Building+Real+Projects;Clean+Code+%7C+Scalable+Systems+%7C+Backend+Life" alt="Header Texts" />
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ISanaSaki&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ISanaSaki?style=flat&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ISanaSaki?style=flat&label=Stars" alt="GitHub Stars" />
 </p>
-
----
 
 # 💫 About Me
 
@@ -28,6 +24,8 @@ I believe in learning by building, breaking things, and fixing them better than 
 
 ---
 
+<br>
+
 # 🛠️ Tech Stack & Tools
 
 ### 🐍 Backend & Core
@@ -40,27 +38,29 @@ I believe in learning by building, breaking things, and fixing them better than 
 </p>
 
 ### 🗄️ Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
 
 </p>
 
-
 ### 🔄 Data & Background Tasks
+
 <p align="center">
   <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=flat&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
 </p>
 
-
 ### 🧬 Migrations & ORM
+
 <p align="center">
 <img src="https://img.shields.io/badge/alembic-%233B5FC0.svg?style=flat&logo=alembic&logoColor=white" />
 </p>
 
 ### 🐳 DevOps & Deployment
+
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
@@ -71,7 +71,10 @@ I believe in learning by building, breaking things, and fixing them better than 
 
 ---
 
+<br><br>
+
 # Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake.svg">
@@ -84,6 +87,29 @@ I believe in learning by building, breaking things, and fixing them better than 
 </p>
 
 ---
+
+<br><br>
+
+# Github Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" />
+</p>
+
+---
+
+<br><br>
+
 # 🌐 Connect with Me
 
 <p align="center">
@@ -101,7 +127,6 @@ I believe in learning by building, breaking things, and fixing them better than 
   </a>
 </p>
 
-
 ---
 
-⭐️ *Always learning, always improving — one commit at a time.*
+⭐️ _Always learning, always improving — one commit at a time._
