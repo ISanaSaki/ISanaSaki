@@ -10,16 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=ISanaSaki&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ISanaSaki?style=flat&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ISanaSaki?style=flat&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-2024-blueviolet?style=flat" alt="Joined GitHub" />
 </p>
 
 # 💫 About Me
 
-Hi, I'm Sana Saki 👋  
-A Python Backend Developer passionate about building clean, scalable, and real-world applications.
-
-I enjoy working on API-based systems, designing backend architectures, and learning how things work under the hood.  
-Currently focused on FastAPI, databases, Dockerized environments, and backend best practices.
-
+Hi , I'm Sana Saki 👋  
+Junior Python Backend Developer 🐍  
+Computer Engineering student at Lorestan University 🎓  
+Interested in backend development, APIs, and building reliable systems.
 I believe in learning by building, breaking things, and fixing them better than before 🚀
 
 ---
@@ -129,4 +128,7 @@ I believe in learning by building, breaking things, and fixing them better than 
 
 ---
 
-⭐️ _Always learning, always improving — one commit at a time._
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+</p>
