@@ -122,7 +122,7 @@ Interested in backend development, APIs, and building reliable systems.
   <a href="https://t.me/sana_saki">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sana-saki-857397395">
+  <a href="https://linkedin.com/in/sana-saki">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
