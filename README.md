@@ -19,7 +19,8 @@ Hi , I'm Sana Saki 👋
 Junior Python Backend Developer 🐍  
 Computer Engineering student at Lorestan University 🎓  
 Interested in backend development, APIs, and building reliable systems.
-I believe in learning by building, breaking things, and fixing them better than before 🚀
+
+  I believe in learning by building, breaking things, and fixing them better than before 🚀
 
 ---
 
