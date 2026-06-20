@@ -16,7 +16,7 @@
 # 💫 About Me
 
 Hi , I'm Sana Saki 👋  
-Junior Python Backend Developer 🐍  
+Python Backend Developer 🐍  
 Computer Engineering student at Lorestan University 🎓  
 Interested in backend development, APIs, and building reliable systems.
 
@@ -32,41 +32,54 @@ Interested in backend development, APIs, and building reliable systems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/FastAPI-0.115.0-009688?logo=fastapi" />
-  <img src="https://img.shields.io/badge/Pydantic-2.9.2-E92063?logo=pydantic" />
-  <img src="https://img.shields.io/badge/Regex-Pattern-blue?logo=code" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=flat&logo=celery&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 
 <p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-
-</p>
-
-### 🔄 Data & Background Tasks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=flat&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
 </p>
 
-### 🧬 Migrations & ORM
+### 🔗 ORM & Migrations
 
 <p align="center">
-<img src="https://img.shields.io/badge/alembic-%233B5FC0.svg?style=flat&logo=alembic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-3B5FC0?style=flat&logo=alembic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" />
 </p>
 
-### 🐳 DevOps & Deployment
+### 🐳 DevOps & Infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" />
+</p>
 
+### 🛠️ Dev Tools & Testing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
+</p>
+
+### 🎨 Frontend & Markup
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+</p>
+
+### 📊 Data & Utilities
+
+<p align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regex-blue?style=flat&logo=code&logoColor=white" />
 </p>
 
 ---
