@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+Sana+Saki's+GitHub;Python+Backend+Developer;Building+APIs+with+FastAPI;Learning+by+Building+Real+Projects;Clean+Code+%7C+Scalable+Systems+%7C+Backend+Life" alt="Header Texts" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=5c4033&center=true&vCenter=true&width=650&lines=Welcome+to+Sana+Saki's+GitHub;Python+Backend+Developer;Building+APIs+with+FastAPI;Learning+by+Building+Real+Projects;Clean+Code+%7C+Scalable+Systems+%7C+Backend+Life" alt="Header Texts" />
 </p>
 
 <p align="center">
@@ -144,5 +144,5 @@ Interested in backend development, APIs, and building reliable systems.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5c4033&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
