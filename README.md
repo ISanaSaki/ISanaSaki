@@ -1,107 +1,82 @@
-<p align="center">
-  <img src="https://github.com/ISanaSaki.png" alt="Sana Saki" style="border-radius: 70%; width: 150px; height: 150px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Sana%20Saki&fontSize=56&fontColor=1b1b1b&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20at%20Lorestan%20University&descSize=18&descAlignY=58&descColor=1b4332" width="100%"/>
+
+## 🐍 About Me
+<p align="left">Python Backend Developer deeply focused on building production-ready APIs and reliable server-side systems.<br/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&pause=1000&color=5c4033&center=true&vCenter=true&width=650&lines=Welcome+to+Sana+Saki's+GitHub;Python+Backend+Developer;Building+APIs+with+FastAPI;Learning+by+Building+Real+Projects;Clean+Code+%7C+Scalable+Systems+%7C+Backend+Life" alt="Header Texts" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ISanaSaki&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ISanaSaki?style=flat&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ISanaSaki?style=flat&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Joined%20GitHub-2024-blueviolet?style=flat" alt="Joined GitHub" />
-</p>
+- Working with **FastAPI** to build auth systems, RBAC, async task queues, and clean modular architecture
+- Working with **PostgreSQL**, **Redis**, and **Celery** in production-style environments
+- Diving deep into **Django** and passionate about backend integration with **AI/ML** systems
 
-# 💫 About Me
 
-Hi , I'm Sana Saki 👋  
-Python Backend Developer 🐍  
-Computer Engineering student at Lorestan University 🎓  
-Interested in backend development, APIs, and building reliable systems.
-
-  I believe in learning by building, breaking things, and fixing them better than before 🚀
+> I believe in learning by building, breaking things, and fixing them better than before ✨ .
 
 ---
-
 <br>
 
-# 🛠️ Tech Stack & Tools
+## Tech Stack
 
-### 🐍 Backend & Core
+**Backend & Frameworks**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=flat&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Storage
+**Databases & Storage**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-### 🔗 ORM & Migrations
+**ORM, Validation & Migrations**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alembic-3B5FC0?style=flat&logo=alembic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-3B5FC0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
 </p>
 
-### 🐳 DevOps & Infrastructure
+**Task Queue & Async**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
 </p>
 
-### 🛠️ Dev Tools & Testing
+**Containerization & Infrastructure**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-### 🎨 Frontend & Markup
+**Dev & Testing Tools**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-### 📊 Data & Utilities
+**Frontend Basics**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regex-blue?style=flat&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
----
-
-<br><br>
-
-# Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake.svg">
-</picture>
+**Data & Scientific**
 
 <p align="center">
-  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSanaSaki&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ---
-
-<br><br>
 
 # Github Stats
 
@@ -121,28 +96,19 @@ Interested in backend development, APIs, and building reliable systems.
 
 ---
 
-<br><br>
-
-# 🌐 Connect with Me
+# Contributions
 
 <p align="center">
-  <a href="https://github.com/ISanaSaki">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:sanasaki85@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/sana_saki">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sana-saki">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSanaSaki&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iSanaSaki/iSanaSaki/output/github-contribution-grid-snake.svg">
+</picture>
 
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5c4033&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=120&section=footer" width="100%"/>
