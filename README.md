@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Sana%20Saki&fontSize=56&fontColor=1b1b1b&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20at%20Lorestan%20University&descSize=18&descAlignY=58&descColor=1b4332" width="100%"/>
 
 ## 🐍 About Me
-<p align="left">Python Backend Developer deeply focused on building production-ready APIs and reliable server-side systems.<br/>
+<p align="left">Junior Python Backend Developer with a strong interest in building production-ready APIs and scalable server-side systems.
+
+Skilled in developing backend applications with **FastAPI**, designing RESTful APIs, implementing authentication and RBAC, managing asynchronous workflows with **Celery**, and working with **PostgreSQL**, **Redis**, and **Docker**. Passionate about clean architecture, maintainable code, and modern backend engineering practices.
+<br/>
 </p>
 
 
-- Working with **FastAPI** to build auth systems, RBAC, async task queues, and clean modular architecture
-- Working with **PostgreSQL**, **Redis**, and **Celery** in production-style environments
-- Diving deep into **Django** and passionate about backend integration with **AI/ML** systems
+- Currently expanding my expertise in **Machine Learning** and exploring the integration of AI into backend systems through practical, project-driven learning.
 
 
 > I believe in learning by building, breaking things, and fixing them better than before ✨ .
