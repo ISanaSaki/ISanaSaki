@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Sana%20Saki&fontSize=56&fontColor=1b1b1b&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20at%20Lorestan%20University&descSize=18&descAlignY=58&descColor=1b4332" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E342E,50:795548,100:A1887F&height=220&section=header&text=Sana%20Saki&fontSize=56&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20at%20Lorestan%20University&descSize=18&descAlignY=58&descColor=3E2723" width="100%"/>
 
 ## 🐍 About Me
 <p align="left">Junior Python Backend Developer with a strong interest in building production-ready APIs and scalable server-side systems.
@@ -7,9 +7,7 @@ Skilled in developing backend applications with **FastAPI**, designing RESTful A
 <br/>
 </p>
 
-
 - Currently expanding my expertise in **Machine Learning** and exploring the integration of AI into backend systems through practical, project-driven learning.
-
 
 > I believe in learning by building, breaking things, and fixing them better than before ✨ .
 
@@ -75,6 +73,9 @@ Skilled in developing backend applications with **FastAPI**, designing RESTful A
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
@@ -112,4 +113,4 @@ Skilled in developing backend applications with **FastAPI**, designing RESTful A
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E342E,50:795548,100:A1887F&height=120&section=footer" width="100%"/>
