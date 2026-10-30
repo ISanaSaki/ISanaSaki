@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E342E,50:795548,100:A1887F&height=220&section=header&text=Sana%20Saki&fontSize=56&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20at%20Lorestan%20University&descSize=18&descAlignY=58&descColor=3E2723" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=220&section=header&text=Sana%20Saki&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%2B%20AI%20%7C%20Computer%20Engineering%20at%20Lorestan%20University&descSize=18&descAlignY=58&descColor=E2E8F0" width="100%"/>
 
 ## 🐍 About Me
 <p align="left">Junior Python Backend Developer with a strong interest in building production-ready APIs and scalable server-side systems.
@@ -113,4 +113,4 @@ Skilled in developing backend applications with **FastAPI**, designing RESTful A
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E342E,50:795548,100:A1887F&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=120&section=footer" width="100%"/>
