@@ -42,39 +42,9 @@ Alongside backend development I work with **Django** and **Machine Learning**. I
 
 ## 🏗️ Backend Architecture
 
-```mermaid
-flowchart TB
-    C([Client]) -->|HTTPS| N[Nginx<br/>Reverse Proxy]
-
-    subgraph API[FastAPI Service]
-        RT[Routers<br/>Auth and RBAC]
-        SV[Service Layer<br/>Business Logic]
-        RP[Repository Layer<br/>SQLAlchemy]
-        ML[ML Inference<br/>scikit-learn]
-        RT --> SV
-        SV --> RP
-        SV --> ML
-    end
-
-    subgraph INFRA[Data and Async Layer]
-        RD[(Redis<br/>Cache and Broker)]
-        W[Celery Workers]
-        DB[(PostgreSQL)]
-        RD -->|consume tasks| W
-    end
-
-    N --> RT
-    SV -->|cache / enqueue| RD
-    RP --> DB
-    W --> DB
-
-    classDef core fill:#1C2541,stroke:#3A506B,color:#fff;
-    classDef data fill:#0B132B,stroke:#3A506B,color:#fff;
-    class RT,SV,RP,ML,W core;
-    class RD,DB data;
-```
-
-<p align="center"><sub>Containerized with Docker · Served behind Nginx</sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ISanaSaki/ISanaSaki/main/assets/architecture.svg" alt="Backend architecture: Client, Nginx, FastAPI service with routers, service and repository layers, Redis, Celery workers and PostgreSQL" width="100%" />
+</p>
 
 ---
 
